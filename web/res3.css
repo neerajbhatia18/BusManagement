@@ -1,0 +1,39 @@
+.loginBox input[type=submit]
+{
+padding:4px;
+font-size:12px;
+}
+.loginBox input[type=text]{
+padding: 8px;
+}
+.form-wrap input[type=submit]
+{
+padding:4px;
+font-size:12px;
+}
+.form-wrap input[type=text]{
+padding: 8px;
+}
+label{
+font-size:12px;
+}
+h2{
+font-size:15px;
+}
+p{
+font-size:12px;
+}
+.loginBox{
+width: 80%;
+height: 460px;
+left: 40%;
+top:80%;
+margin: 10px 30% 10px 11%;
+}
+.form-wrap{
+width: 80%;
+height: 800px;
+left: 40%;
+top:95%;
+margin: 10px 30% 10px 11%;
+}
